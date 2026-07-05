@@ -3,7 +3,7 @@ import subprocess
 from ebooklib import epub
 from PIL import Image
 
-PDF = "book.pdf"
+PDF = "books.pdf"
 IMG_DIR = "pages"
 OUTPUT = "book_fixed.epub"
 
